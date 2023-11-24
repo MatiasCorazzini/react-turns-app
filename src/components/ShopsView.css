@@ -1,0 +1,16 @@
+.shop-view{
+  padding: 8px;
+}
+.card-shop {
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin-bottom: 8px;
+}
+.card-link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}

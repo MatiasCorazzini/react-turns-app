@@ -1,0 +1,74 @@
+{
+  "shops": [
+    {
+      "id": "1",
+      "name": "City Cuts Barber Shop",
+      "category": "Barber",
+      "owner": "John Barber",
+      "description": "A modern barber shop offering classic and contemporary haircuts for men.",
+      "turns": [
+        {"turnId": "b1", "start": "09:00 AM", "end": "09:30 AM"},
+        {"turnId": "b2", "start": "10:00 AM", "end": "10:30 AM"},
+        {"turnId": "b3", "start": "11:00 AM", "end": "11:30 AM"},
+        {"turnId": "b4", "start": "01:00 PM", "end": "01:30 PM"},
+        {"turnId": "b5", "start": "03:00 PM", "end": "03:30 PM"}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Healthy Smiles Dentistry",
+      "category": "Dentist",
+      "owner": "Dr. Emily White",
+      "description": "Comprehensive dental care for the whole family in a friendly and comfortable environment.",
+      "turns": [
+        {"turnId": "d1", "start": "08:00 AM", "end": "08:30 AM"},
+        {"turnId": "d2", "start": "09:30 AM", "end": "10:00 AM"},
+        {"turnId": "d3", "start": "11:00 AM", "end": "11:30 AM"},
+        {"turnId": "d4", "start": "02:00 PM", "end": "02:30 PM"},
+        {"turnId": "d5", "start": "04:00 PM", "end": "04:30 PM"}
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Fashion Haven Boutique",
+      "category": "Clothing",
+      "owner": "Sophie Anderson",
+      "description": "Trendy and stylish clothing and accessories for men and women.",
+      "turns": [
+        {"turnId": "c1", "start": "10:00 AM", "end": "10:30 AM"},
+        {"turnId": "c2", "start": "11:30 AM", "end": "12:00 PM"},
+        {"turnId": "c3", "start": "01:00 PM", "end": "01:30 PM"},
+        {"turnId": "c4", "start": "03:00 PM", "end": "03:30 PM"},
+        {"turnId": "c5", "start": "05:00 PM", "end": "05:30 PM"}
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Tech Solutions Electronics",
+      "category": "Electronics",
+      "owner": "Alex Rodriguez",
+      "description": "Your one-stop shop for the latest gadgets, electronics, and tech accessories.",
+      "turns": [
+        {"turnId": "e1", "start": "09:30 AM", "end": "10:00 AM"},
+        {"turnId": "e2", "start": "11:00 AM", "end": "11:30 AM"},
+        {"turnId": "e3", "start": "01:30 PM", "end": "02:00 PM"},
+        {"turnId": "e4", "start": "03:30 PM", "end": "04:00 PM"},
+        {"turnId": "e5", "start": "05:30 PM", "end": "06:00 PM"}
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Café Serenity",
+      "category": "Cafe",
+      "owner": "Anna Williams",
+      "description": "A cozy café offering a variety of coffee, tea, and delicious pastries.",
+      "turns": [
+        {"turnId": "f1", "start": "07:00 AM", "end": "07:30 AM"},
+        {"turnId": "f2", "start": "08:00 AM", "end": "08:30 AM"},
+        {"turnId": "f3", "start": "09:00 AM", "end": "09:30 AM"},
+        {"turnId": "f4", "start": "10:00 AM", "end": "10:30 AM"},
+        {"turnId": "f5", "start": "11:00 AM", "end": "11:30 AM"}
+      ]
+    }
+  ]
+}
