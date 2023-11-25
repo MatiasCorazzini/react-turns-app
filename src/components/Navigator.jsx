@@ -27,10 +27,10 @@ export function Navigator(args) {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="me-auto" navbar>
             <NavItem>
-              <NavLink href="/turns/">Mis Turnos</NavLink>
+              <NavLink href="/singin/">Join your business</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">
+              <NavLink href="https://github.com/MatiasCorazzini/react-turns-app">
                 GitHub
               </NavLink>
             </NavItem>
